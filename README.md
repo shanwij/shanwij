@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/shanwij)**
 
-- 📫 How to reach me **wijewardanalakshan@gmail.com**
+- 📫 How to reach me **wijewardanalakshan@gmail.com , Shan46646@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
