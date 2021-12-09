@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/shanwij)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shanwij.netlify.app/)**
 
 - 📫 How to reach me **wijewardanalakshan@gmail.com , Shan46646@gmail.com**
 
