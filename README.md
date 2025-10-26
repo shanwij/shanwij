@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mintow Kids Educational App](https://www.mintow.com/)**
+- 🔭 Intern works **[Mintow Kids Educational App](https://www.mintow.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AI with Cyber Security.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 Reach me - **https://shanwij.netlify.app/**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I spend long hours playing games and listening to music.**
 
 ## 🚀 Languages and Tools:
 
