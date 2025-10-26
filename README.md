@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Intern works **[Mintow Kids Educational App](https://www.mintow.com/)**
+- 🔭 Intern works **[Mintow Kids Educational App](https://apkpure.com/mintow-kids-educational-games/com.rfactory.mintow)**
 
 - 🌱 I’m currently learning **AI with Cyber Security.**
 
